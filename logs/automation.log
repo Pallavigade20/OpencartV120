@@ -1,0 +1,21 @@
+2026-04-21 17:30:05 INFO  TC001_AccoutResistrationTest:24 - *****Starting TC001_AccoutResistrationTest *****
+2026-04-21 17:30:05 INFO  TC001_AccoutResistrationTest:29 - Clicked on MyAcc link
+2026-04-21 17:30:07 INFO  TC001_AccoutResistrationTest:31 - Clicked on Resister link
+2026-04-21 17:30:07 INFO  TC001_AccoutResistrationTest:35 - Providing cust details
+2026-04-21 17:30:13 INFO  TC001_AccoutResistrationTest:45 - Validating expecetd msg
+2026-04-21 17:30:13 INFO  TC001_AccoutResistrationTest:65 - Finished TC001_AccoutResistrationTest  
+2026-04-21 17:30:21 INFO  TC002_LoginTest:17 - starting TC002_LoginTest
+2026-04-21 17:39:10 INFO  TC001_AccoutResistrationTest:24 - *****Starting TC001_AccoutResistrationTest *****
+2026-04-21 17:39:10 INFO  TC001_AccoutResistrationTest:29 - Clicked on MyAcc link
+2026-04-21 17:39:11 INFO  TC001_AccoutResistrationTest:31 - Clicked on Resister link
+2026-04-21 17:39:11 INFO  TC001_AccoutResistrationTest:35 - Providing cust details
+2026-04-21 17:39:14 INFO  TC001_AccoutResistrationTest:45 - Validating expecetd msg
+2026-04-21 17:39:14 INFO  TC001_AccoutResistrationTest:65 - Finished TC001_AccoutResistrationTest  
+2026-04-21 17:39:20 INFO  TC002_LoginTest:17 - starting TC002_LoginTest
+2026-04-21 17:47:18 INFO  TC001_AccoutResistrationTest:24 - *****Starting TC001_AccoutResistrationTest *****
+2026-04-21 17:47:19 INFO  TC001_AccoutResistrationTest:29 - Clicked on MyAcc link
+2026-04-21 17:47:20 INFO  TC001_AccoutResistrationTest:31 - Clicked on Resister link
+2026-04-21 17:47:20 INFO  TC001_AccoutResistrationTest:35 - Providing cust details
+2026-04-21 17:47:23 INFO  TC001_AccoutResistrationTest:45 - Validating expecetd msg
+2026-04-21 17:47:23 INFO  TC001_AccoutResistrationTest:65 - Finished TC001_AccoutResistrationTest  
+2026-04-21 17:47:30 INFO  TC002_LoginTest:17 - starting TC002_LoginTest
